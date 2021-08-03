@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  min-height: 10vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+}
+
+.App-body {
+  width: 500px;
+  max-width: 500px;
+  align-items: center !important;
+  text-align: center !important;
+  overflow-wrap: break-word;
+  display: inline-block;
+}
